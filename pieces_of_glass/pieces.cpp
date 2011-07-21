@@ -1,3 +1,8 @@
+/* Compute area, perimeter, min and max sizes, number of edges and barycenter of every connected */
+/* group of non-zero pixels */
+
+/* Usage ./pieces list_of_binary_images */
+
 #include "cv.h"
 #include "highgui.h"
 #include <iostream>
